@@ -1,0 +1,11 @@
+server:
+  port: 9200
+  servlet:
+    context-path: /maganerProject
+spring:
+  application:
+    name: service-proyects
+  h2:
+    console:
+      enabled: true
+      
